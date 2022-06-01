@@ -22,11 +22,6 @@
  ❗ Cualquier error avisar en el Grupo TG          
 ------------------------------------------------------------------       
 
-GRUPO DE TELEGRAM: https://t.me/+HyiGQFE3BhZhZmMx
-
+GRUPO DE TELEGRAM: 
 ------------------------------------------------------------------
-😋 SE AGRADECE CUALQUIER DONACION       
-BTC
-```3M8zaTvkVYkz87jeDmpAMBCiQsRrKff3qk```    
-LTC
-```MA8nZyyQbMY3MRhZ7Qka6wEMjkGR6zjha1```   
+

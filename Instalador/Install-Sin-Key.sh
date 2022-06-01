@@ -287,11 +287,11 @@ install_oficial() {
   echo "exit 0" >>/etc/rc.local
   echo 'clear' >>.bashrc
   echo 'echo ""' >>.bashrc
-  echo 'echo -e "\t\033[91m __     ______  ____        __  ____  __ " ' >>.bashrc
-  echo 'echo -e "\t\033[91m \ \   / /  _ \/ ___|      |  \/  \ \/ / " ' >>.bashrc
-  echo 'echo -e "\t\033[91m  \ \ / /| |_) \___ \ _____| |\/| |\  /  " ' >>.bashrc
-  echo 'echo -e "\t\033[91m   \ V / |  __/ ___) |_____| |  | |/  \  " ' >>.bashrc
-  echo 'echo -e "\t\033[91m    \_/  |_|   |____/      |_|  |_/_/\_\ " ' >>.bashrc
+  echo 'echo -e "\t\033[91m __     ______  ____   " ' >>.bashrc
+  echo 'echo -e "\t\033[91m \ \   / /  _ \/ ___|  " ' >>.bashrc
+  echo 'echo -e "\t\033[91m  \ \ / /| |_) \___ \  " ' >>.bashrc
+  echo 'echo -e "\t\033[91m   \ V / |  __/ ___) | " ' >>.bashrc
+  echo 'echo -e "\t\033[91m    \_/  |_|   |____/  " ' >>.bashrc
   echo 'wget -O /etc/versin_script_new https://raw.githubusercontent.com/NetVPS/VPS-MX_Oficial/master/SCRIPT-v8.4g%20Oficial/Version &>/dev/null' >>.bashrc
   echo 'echo "" ' >>.bashrc
   echo 'mess1="$(less /etc/VPS-MX/message.txt)" ' >>.bashrc
@@ -368,11 +368,11 @@ install_mod() {
   echo "exit 0" >>/etc/rc.local
   echo 'clear' >>.bashrc
   echo 'echo ""' >>.bashrc
-  echo 'echo -e "\t\033[91m __     ______  ____        __  ____  __ " ' >>.bashrc
-  echo 'echo -e "\t\033[91m \ \   / /  _ \/ ___|      |  \/  \ \/ / " ' >>.bashrc
-  echo 'echo -e "\t\033[91m  \ \ / /| |_) \___ \ _____| |\/| |\  /  " ' >>.bashrc
-  echo 'echo -e "\t\033[91m   \ V / |  __/ ___) |_____| |  | |/  \  " ' >>.bashrc
-  echo 'echo -e "\t\033[91m    \_/  |_|   |____/      |_|  |_/_/\_\ " ' >>.bashrc
+  echo 'echo -e "\t\033[91m __     ______  ____   " ' >>.bashrc
+  echo 'echo -e "\t\033[91m \ \   / /  _ \/ ___|  " ' >>.bashrc
+  echo 'echo -e "\t\033[91m  \ \ / /| |_) \___ \  " ' >>.bashrc
+  echo 'echo -e "\t\033[91m   \ V / |  __/ ___) | " ' >>.bashrc
+  echo 'echo -e "\t\033[91m    \_/  |_|   |____/  " ' >>.bashrc
   echo 'wget -O /etc/versin_script_new https://raw.githubusercontent.com/NetVPS/VPS-MX_Oficial/master/SCRIPT-v8.5x%20Mod/Version &>/dev/null' >>.bashrc
   echo 'echo "" ' >>.bashrc
   echo 'mess1="$(less /etc/VPS-MX/message.txt)" ' >>.bashrc
